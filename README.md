@@ -15,6 +15,8 @@ in this complex lending process which will reduce parties’ risk and decrease s
 </div>
 <div>
  <h2>How Does it work?</h2>
- ![WhatsApp Image 2023-01-08 at 14 35 41](https://user-images.githubusercontent.com/109274817/211188390-45156e41-5c18-41c0-aa86-617447de7c88.jpg)
+ ![WhatsApp Image 2023-01-08 at 14 35 41](https://user-images.githubusercontent.com/109274817/211188479-7a5d0db2-be6d-4440-adaf-e3f16ea98416.jpg)
+
+
 
 </div>
