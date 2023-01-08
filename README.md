@@ -41,4 +41,9 @@ in this complex lending process which will reduce parties’ risk and decrease s
   <li><a href="https://metamask.io/">Metamask</a></li>
  </ul>
 </div>
+<div>
+ <h2>The Road Ahead for Blockchain Based Lending</h2>
+ <p>The concept of blockchain based lending might bring in a new era in the lending business as automatization of loan agreements can vastly improve the process, but blockchain technology itself is in its nascent stage with a lot of new updates every day.Automatization of evaluation of customers and finding their credit scores require robust oracle systems, which at this point are in their development stage. Many consumer lending companies are in there planning stage at this point of time except a few early adopters. But, blockchain technology is the technology for future and it lays groundwork for great transparency and efficiency in lending
+environment and analytics give the firms the edge they need to convert this transparency into decision making, This new version of age-old peer-to-peer lending system has the potential to completely revolutionize financial lending by adding accuracy and efficiency to the outdated centralized system.</p>
+</div>
 
