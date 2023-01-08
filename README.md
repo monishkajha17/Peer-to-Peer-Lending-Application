@@ -3,3 +3,18 @@
 <div>
 <img src = "https://wixmp-fe53c9ff592a4da924211f23.wixmp.com/users/51835bf9-6801-4d65-8c6e-8f5c1ce19c29/design-previews/f5cdb6bc-9da2-4390-9ef0-bda785fa481e/1673165804325-thumbnail.jpeg" alt ="Project Logo" align= "left" hieght="100" width = "100">
  </div>
+<div>
+ <h2>About</h2>
+ <p>
+ The idea for the project is to build a lending application using Blockchain. Using this application, people would be able to take loans on the blockchains. That means they can essentially lock up certain assets and borrow other cryptocurrencies and then pay back later after a certain amount of time. A different use case for this kind of application is cryptocurrency trading. Traders can lock up certain cryptocurrency assets to borrow a different kind of asset, then trade it and make a profit.
+Blockchain technology-based lending provides a solution as it is based on a peer-to-peer model and can make the entire process smoother and safer leading to obsoletion
+of traditional banking system and third parties. A borrower sitting in any part of the world can access the loan market and lenders can bid to deliver it due to the decentralized nature of blockchain technology as geography is not a concern in it. Overall, blockchain technology adds transparency, reliability, trust
+in this complex lending process which will reduce parties’ risk and decrease settlement delays.
+ </p>
+ 
+</div>
+<div>
+ <h2>How Does it work?</h2>
+ ![WhatsApp Image 2023-01-08 at 14 35 41](https://user-images.githubusercontent.com/109274817/211188390-45156e41-5c18-41c0-aa86-617447de7c88.jpg)
+
+</div>
