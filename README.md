@@ -15,7 +15,7 @@ in this complex lending process which will reduce parties’ risk and decrease s
 </div>
 <div>
  <h2>How Does it work?</h2>
- <img src="https://user-images.githubusercontent.com/109274817/211188479-7a5d0db2-be6d-4440-adaf-e3f16ea98416.jpg" align ="center" height="600" width="400" alt="Working of Project">
+ <img src="https://user-images.githubusercontent.com/109274817/211188479-7a5d0db2-be6d-4440-adaf-e3f16ea98416.jpg" align ="center" height="600" width="500" alt="Working of Project">
 
 
 
