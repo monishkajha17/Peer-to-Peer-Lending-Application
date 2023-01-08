@@ -20,3 +20,25 @@ in this complex lending process which will reduce parties’ risk and decrease s
 
 
 </div>
+<div>
+ <h2>Benefits of Blockchain Technology in Consumer Lending</h2>
+ <p>Blockchain technology has proved to be useful in many fields like cross-border payments,trade finance, settlements and consumer lending is also a sector which can benefit immensely from it. Here’s how blockchain can help consumer lending industry:
+ <ul>
+  <li><b>Low Operational Risks</b></li>
+  <li><b>Improved Servicing Efficiency of Loans</b></li>
+  <li><b>Identity Authentication</b></li>
+  <li><b>Flexible Markets</b></li>
+ </ul>
+ </p>
+ 
+</div>
+<div>
+ <h2>Requirements</h2>
+ <ul>
+  <li><a href="https://nodejs.org/en/">Node.js</a></li>
+  <li><a href="https://trufflesuite.com/">Truffle</a></li>
+  <li><a href="https://trufflesuite.com/ganache/">Ganache</a></li>
+  <li><a href="https://metamask.io/">Metamask</a></li>
+ </ul>
+</div>
+
